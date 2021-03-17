@@ -1,4 +1,4 @@
-# Projects done for the first part of udacities free javascript design patterns course. 
+# Projects done for the first part of Udacity's free javascript design patterns course. 
 
 Just vanilla javascript and jquery to build some simple interactive front ends, stressing model octopus view design concepts. 
 

@@ -1,0 +1,20 @@
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #222;
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: grabbing; 
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    color: #222;
+    font-size: 50px;
+    text-align: center;   
+}
